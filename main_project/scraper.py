@@ -9,7 +9,7 @@ from concurrent.futures import ThreadPoolExecutor
 
 from data_saver import load_data
 
-
+# main Scraper to scrape data 
 class Scraper:
 
     def __init__(self):
